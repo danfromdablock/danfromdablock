@@ -62,14 +62,3 @@
 | [PetrolForecastBackEnd](https://github.com/danfromdablock/PetrolForecastBackEnd) | Oil production forecasting with exponential, hyperbolic and harmonic decline models, plus Excel reports | Python · Flask · Plotly |
 | [ProductionPetrolForecast](https://github.com/danfromdablock/ProductionPetrolForecast) | Web frontend for the petrol forecasting tool | JavaScript |
 | [EncryptedChat](https://github.com/danfromdablock/EncryptedChat) | Real-time chat over WebSockets ([backend](https://github.com/danfromdablock/EncryptedChatBackEnd)) | JavaScript · Flask-SocketIO |
-
-### Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danfromdablock&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=888" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danfromdablock&layout=compact&hide_border=true&theme=transparent&title_color=7c3aed&text_color=888" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=danfromdablock&hide_border=true&background=00000000&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=888&dates=888&currStreakNum=888&sideNums=888" alt="Contribution streak" />
-</p>
