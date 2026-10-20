@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img width="300" src="https://media.giphy.com/media/SgBFcIje2WNkk/giphy.gif" alt="Bat-Signal lighting up the night sky" />
+  <img width="520" src="batman.gif" alt="Batman with lightning striking on both sides" />
 </p>
 
 ### What I work on
