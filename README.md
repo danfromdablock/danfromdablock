@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Daniel 👋</h1>
 
 <p align="center">
-  Full-stack developer building AI tools, web apps and security utilities.<br/>
-  Founder of <b>Cor4 Digital</b> · currently building <b>Timeline Social</b>.
+  Cybersecurity specialist and developer building security tools, AI apps and web platforms.<br/>
+  Cybersecurity &amp; Digital Solutions at <b>Cor4 Digital</b> · currently building <b>Timeline Social</b>.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ### What I'm working on
 
 - **Timeline Social** — a social app built around your life story as a timeline. Django + DRF backend with PostgreSQL row-level security, mobile-first web frontend.
-- **Cor4 Digital** — my studio. AI assistants, booking dashboards and n8n automation for small businesses.
+- **Cor4 Digital** — cybersecurity and digital solutions: securing client systems, plus AI assistants, booking dashboards and n8n automation for small businesses.
 - **Cor4 Vision Safety** — computer-vision safety detection in Python.
 
 ### Open-source projects
