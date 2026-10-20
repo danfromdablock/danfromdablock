@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=200&section=header&text=Daniel%20Cortez&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Automation&descAlignY=56&descSize=18&animation=fadeIn" alt="Daniel Cortez — Cybersecurity · AI · Automation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=200&section=header&text=Daniel%20Cortez&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%C2%B7%20AI%20Security%20%C2%B7%20Automation&descAlignY=56&descSize=18&animation=fadeIn" alt="Daniel Cortez — Cybersecurity · AI Security · Automation" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Securing+systems+end+to+end;Building+AI+agents+with+n8n;Computer+vision+that+runs+offline;Pentesting+%C2%B7+Threat+monitoring+%C2%B7+RAG" alt="Securing systems end to end · Building AI agents with n8n · Computer vision that runs offline · Pentesting, threat monitoring, RAG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Securing+systems+end+to+end;Red-teaming+LLM+agents;Building+AI+agents+with+n8n;Computer+vision+that+runs+offline;Pentesting+%C2%B7+Threat+monitoring+%C2%B7+RAG" alt="Securing systems end to end · Red-teaming LLM agents · Building AI agents with n8n · Computer vision that runs offline · Pentesting, threat monitoring, RAG" />
 </p>
 
 <p align="center">
-  Cybersecurity specialist working across AI systems, automation and secure infrastructure.<br/>
+  Cybersecurity specialist working across AI security, automation and secure infrastructure.<br/>
   Cybersecurity &amp; Digital Solutions Specialist at <b>Cor4 Digital</b> · Applied Computer Science (Cybersecurity) at Howest, Brugge.
 </p>
 
@@ -18,6 +18,7 @@
 
 ### What I work on
 
+- **AI security** — I attack and harden LLM agents. I built a Python prompt-injection test framework (tool abuse, reasoning-chain hijack, confidence manipulation, SQL injection) and test agents with adversarial payloads hidden in ticket bodies and image attachments. Fixes include strict JSON output schemas, input sanitising, file magic-byte checks and LLMs that run air-gapped on-premise.
 - **Computer-vision safety (Cor4 Digital)** — an on-premise system running on 8 plant cameras with RF-DETR detection, ByteTrack tracking and zone rules. Fully offline, no facial recognition. Cut false positives from 64 to 1 while raising true detections 7%.
 - **AI reservation agent (Cor4 Digital)** — books restaurant tables over WhatsApp and Telegram, with a React 19 + TypeScript owner dashboard and n8n behind it.
 - **AI ticketing at whitesky.cloud** — an n8n + RAG workflow (Qdrant, Ollama embeddings, an on-premise Qwen 3 30B) that drafts support replies, hardened and tested against prompt injection.
@@ -40,6 +41,8 @@
 **Security**
 
 <p>
+  <img src="https://img.shields.io/badge/AI_Security-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Security" />
+  <img src="https://img.shields.io/badge/Prompt_Injection_Testing-B91C1C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Prompt injection testing" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
