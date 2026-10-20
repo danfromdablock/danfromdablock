@@ -1,4 +1,8 @@
-<h1 align="center">Hey, I'm Daniel 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=200&section=header&text=Daniel%20Cortez&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Automation&descAlignY=56&descSize=18&animation=fadeIn" alt="Daniel Cortez — Cybersecurity · AI · Automation" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Securing+systems+end+to+end;Building+AI+agents+with+n8n;Computer+vision+that+runs+offline;Pentesting+%C2%B7+Threat+monitoring+%C2%B7+RAG" alt="Securing systems end to end · Building AI agents with n8n · Computer vision that runs offline · Pentesting, threat monitoring, RAG" />
+</p>
 
 <p align="center">
   Cybersecurity specialist working across AI systems, automation and secure infrastructure.<br/>
@@ -61,3 +65,5 @@
 | [PetrolForecastBackEnd](https://github.com/danfromdablock/PetrolForecastBackEnd) | Oil production forecasting with exponential, hyperbolic and harmonic decline models, plus Excel reports | Python · Flask · Plotly |
 | [ProductionPetrolForecast](https://github.com/danfromdablock/ProductionPetrolForecast) | Web frontend for the petrol forecasting tool | JavaScript |
 | [EncryptedChat](https://github.com/danfromdablock/EncryptedChat) | Real-time chat over WebSockets ([backend](https://github.com/danfromdablock/EncryptedChatBackEnd)) | JavaScript · Flask-SocketIO |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=110&section=footer" alt="" />
