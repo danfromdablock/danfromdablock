@@ -16,17 +16,9 @@
 
 ---
 
-### About me
-
-<img align="right" width="300" src="https://media.giphy.com/media/SgBFcIje2WNkk/giphy.gif" alt="Bat-Signal lighting up the night sky" />
-
-- 🦇 By day I build things; by night I break them (with permission).
-- 🌎 From Quito to Brugge, working with a team in Bolivia. I speak English and Spanish.
-- 🔓 Once reverse-engineered a DVR's proprietary protocol because it refused to speak RTSP.
-- 🤖 I make AI agents useful, then try every trick to make them misbehave.
-- 🎓 Studying Applied Computer Science (Cybersecurity) at Howest.
-
-<br clear="right" />
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/SgBFcIje2WNkk/giphy.gif" alt="Bat-Signal lighting up the night sky" />
+</p>
 
 ### What I work on
 
