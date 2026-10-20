@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img width="520" src="batman.gif" alt="Batman with lightning striking on both sides" />
+  <img width="100%" src="lightning.gif" alt="Orange lightning striking across the page" />
 </p>
 
 ### What I work on
