@@ -67,6 +67,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [ai-red-team-auditor](https://github.com/danfromdablock/ai-red-team-auditor) | Red-teams an AI chatbot's system prompt for bias, hallucination, prompt injection and safety gaps (OWASP Top 10 for LLMs), then gives a colour-coded report with fixes | Python · Flask · Gemini / Groq |
 | [NmapToolKit](https://github.com/danfromdablock/NmapToolKit) | Nmap wrapper with an interactive mode, OS fingerprinting, NSE scripts, decoy scanning and JSON/XML/grepable output | Python |
 | [timeManagment](https://github.com/danfromdablock/timeManagment) | Desktop task manager that schedules your tasks and syncs with Google Calendar | Python · PyQt5 · SQLAlchemy |
 | [PetrolForecastBackEnd](https://github.com/danfromdablock/PetrolForecastBackEnd) | Oil production forecasting with exponential, hyperbolic and harmonic decline models, plus Excel reports | Python · Flask · Plotly |
