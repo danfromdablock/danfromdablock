@@ -30,27 +30,27 @@
 **AI & Automation**
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-17171A?style=for-the-badge&logo=n8n&logoColor=FF5B1F" alt="n8n" />
-  <img src="https://img.shields.io/badge/Ollama-17171A?style=for-the-badge&logo=ollama&logoColor=FF5B1F" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Claude-17171A?style=for-the-badge&logo=claude&logoColor=FF5B1F" alt="Claude" />
-  <img src="https://img.shields.io/badge/PyTorch-17171A?style=for-the-badge&logo=pytorch&logoColor=FF5B1F" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Qdrant-17171A?style=for-the-badge&logo=qdrant&logoColor=FF5B1F" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/RAG_%26_LLM_agents-17171A?style=for-the-badge&logo=probot&logoColor=FF5B1F" alt="RAG and LLM agents" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/RAG_%26_LLM_agents-6E40C9?style=for-the-badge&logo=probot&logoColor=white" alt="RAG and LLM agents" />
 </p>
 
 **Security**
 
 <p>
-  <img src="https://img.shields.io/badge/AI_Security-17171A?style=for-the-badge&logo=probot&logoColor=FF5B1F" alt="AI Security" />
-  <img src="https://img.shields.io/badge/Prompt_Injection_Testing-17171A?style=for-the-badge&logo=hackthebox&logoColor=FF5B1F" alt="Prompt injection testing" />
-  <img src="https://img.shields.io/badge/Kali_Linux-17171A?style=for-the-badge&logo=kalilinux&logoColor=FF5B1F" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-17171A?style=for-the-badge&logo=metasploit&logoColor=FF5B1F" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp_Suite-17171A?style=for-the-badge&logo=burpsuite&logoColor=FF5B1F" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-17171A?style=for-the-badge&logo=wireshark&logoColor=FF5B1F" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-17171A?style=for-the-badge&logo=owasp&logoColor=FF5B1F" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/ELK_Stack-17171A?style=for-the-badge&logo=elasticsearch&logoColor=FF5B1F" alt="ELK Stack" />
-  <img src="https://img.shields.io/badge/WireGuard-17171A?style=for-the-badge&logo=wireguard&logoColor=FF5B1F" alt="WireGuard" />
-  <img src="https://img.shields.io/badge/OPNsense-17171A?style=for-the-badge&logo=opnsense&logoColor=FF5B1F" alt="OPNsense" />
+  <img src="https://img.shields.io/badge/AI_Security-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Security" />
+  <img src="https://img.shields.io/badge/Prompt_Injection_Testing-B91C1C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Prompt injection testing" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" alt="OPNsense" />
 </p>
 
 **Code & Infrastructure**
