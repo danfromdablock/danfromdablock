@@ -6,7 +6,7 @@
 
 <p align="center">
   Cybersecurity specialist working across AI security, automation and secure infrastructure.<br/>
-  Cybersecurity &amp; Digital Solutions Specialist at <b>Cor4 Digital</b> · Applied Computer Science (Cybersecurity) at Howest, Brugge.
+  Cybersecurity &amp; Digital Solutions Specialist at <b>Cor4 Digital</b> · Applied Computer Science (Cybersecurity)
 </p>
 
 <p align="center">
